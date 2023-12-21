@@ -1,0 +1,17 @@
+README.md
+Dockerfile
+LICENSE
+.vscode
+npm-debug.log
+coverage
+.env
+.editorconfig
+.aws
+dist
+node_modules
+.dockerignore
+.git
+.gitignore
+.next
+out
+public
